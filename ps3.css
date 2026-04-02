@@ -1,0 +1,36 @@
+.div
+{
+   background-color: green;
+   height: 100px;
+   width: 100px;
+   border-radius: 50%;
+}
+.nav
+{
+    background-color: black;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+.logo
+{
+    color: yellow;
+    font-size: 25px;
+    margin-right: 200px;
+
+}
+.search input
+{
+    padding: 5px;
+    
+
+}
+.search button
+{
+    background-color: red;
+    border: none;
+    padding: 5px 10px;
+    color: white;
+    
+}
