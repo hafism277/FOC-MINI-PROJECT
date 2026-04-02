@@ -1,0 +1,33 @@
+.navbar {
+    display: flex;                 
+    justify-content: space-evenly; 
+    list-style: none;
+    background-color: #333;
+    padding: 15px;
+}
+
+.navbar li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+.outer {
+    height: 300px;
+    border: 2px solid black;
+
+    display: flex;
+    justify-content: center; 
+    align-items: center;      
+}
+
+
+.inner {
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
