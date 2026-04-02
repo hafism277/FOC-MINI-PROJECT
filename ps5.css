@@ -1,0 +1,23 @@
+p {
+        padding: 10px;
+}
+
+
+.img {
+  background-image: url(https://greggvanourek.com/wp-content/uploads/2023/08/Nature-path-by-water-trees-and-mountains-AdobeStock_291242770-scaled.jpeg);
+  width: 200px;
+  height: 200px;
+  position: fixed;
+  right: 0;
+  top: 120px;
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px;
+  font-size: 30px;
+  color: white;
+  text-shadow: 1px 1px 10px black;
+}
